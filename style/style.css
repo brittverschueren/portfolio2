@@ -253,3 +253,41 @@ h3{
 	background-image:url(../videos/images/background2.jpg);
 }
 
+@media (max-width: 1000px) {
+    
+.kader{
+		
+		
+		float:left;
+		
+        
+    }   
+	.about, .work, .books, .animals, .video{
+		float:right;
+		margin:auto;
+		display:block;
+	
+	}
+	.parallax-window1{
+	height: 300px;
+	
+}
+h1 {
+	font-family: 'Bad Script', cursive;
+	font-size:1.8em;
+	
+	
+}
+h2{
+	font-family: 'Bad Script', cursive;
+	font-size:1.3em;
+	
+	
+}
+.photo{
+	border-radius:80px;
+	
+	
+	
+}
+}
