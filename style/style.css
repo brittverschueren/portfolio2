@@ -147,7 +147,6 @@ p{
 	float:right;
 	color:black;
 }
-/* NOG AANPASSEN IN HTML */
 /* voor style */
 .img{
 	margin-left:20%;
@@ -157,12 +156,13 @@ p{
 /* voor work */
 .img1{
 	margin-left:10%;
-	margin-top:5%;
-}
-.img2{
-	margin-left:10%;
 	margin-top:4%;
 	float:left;
+}
+.img2{
+	margin-right:10%;
+	margin-top:4%;
+	float:right;
 }
 /**/
 /* voor books */
@@ -233,20 +233,21 @@ h3{
 /* voor work */
 .tekst4{
 	background-color:rgba(255,255,255,0.5);
-	width:50%;
-	margin-top:5%;
-	color:black;
-	float:right;
-	margin-right:10%;
-}
-
-.tekst5{
-	background-color:rgba(255,255,255,0.5);
-	width:50%;
+	width:40%;
 	margin-top:4%;
 	color:black;
 	float:right;
 	margin-right:10%;
+	padding:2%;
+}
+
+.tekst5{
+	background-color:rgba(255,255,255,0.5);
+	width:40%;
+	margin-top:4%;
+	color:black;
+	float:left;
+	margin-left:10%;
 }
 /**/
 .videos {
